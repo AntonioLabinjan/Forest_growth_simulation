@@ -23,4 +23,4 @@ In this example, there is a 20% chance for each existing tree to produce offspri
 The simulation includes visualization of the forest's growth over the specified number of years. It uses Matplotlib to display the forest grid at the end of each year. The imshow function is used to create a visual representation of the forest, with different shades of green indicating the presence of trees.
 
 ## Running the Simulation
-You can run the simulation by executing the provided Python script. Adjust the simulation parameters to explore different scenarios of forest growth.
+You can run the simulation by executing the provided Python script. Adjust the simulation parameters to explore different scenarios of forest growth. (You can change number of years and forest area)
